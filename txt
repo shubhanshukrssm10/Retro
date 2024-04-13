@@ -1,0 +1,2 @@
+ctrl+shift+alt+s
+png16 ya png24
